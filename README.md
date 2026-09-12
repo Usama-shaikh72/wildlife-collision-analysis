@@ -114,7 +114,7 @@ A second **Kepler.gl hexbin map**, filtered to only Vulnerable/Endangered/Critic
 
 | Member | Contribution |
 |---|---|
-| *Ian Almeada* | Insights 1–3 — Scale (animal class), Species (top species), Season (monthly pattern) |
+| *Ian Almeida* | Insights 1–3 — Scale (animal class), Species (top species), Season (monthly pattern) |
 | *Kripa Joshi* | Insights 4–6 — Geography (continent tour), Hotspot Map, Threatened Share by Continent |
 | *Usama Shaikh* | Insights 7–9 — Threatened Species Total, Top Threatened Species, Threatened Hotspot Map |
 
